@@ -47,6 +47,21 @@ body {
   background-color: #fff;
   color: #000; }
 
+  .reveal section.img_container {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+}
+.reveal section img {
+        display: block;
+        margin: auto;
+        height: auto;
+        max-height: 100%;
+        width: auto;
+        max-width: 100%;
+}
+
 /*********************************************
  * VIEW FRAGMENTS
  *********************************************/
