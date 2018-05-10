@@ -10,4 +10,4 @@ for people interested in data visualization. In this talk, I cover:
 The slides and resources can always be found [here](http://lisawilliams.github.io/visual-thinking).
 
 If you are interested in more of my writing or tutorials, you can find
-my blog here: [Lisa Williams, technologist](http://lisawilliams.github.io/lisa/)
+my blog here: [Lisa Williams, technologist](http://lisawilliams.github.io/lisa/). 
